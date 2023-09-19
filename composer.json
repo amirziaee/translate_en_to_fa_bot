@@ -1,0 +1,17 @@
+{
+    "name": "a14e/translate",
+    "autoload": {
+        "psr-4": {
+            "A14e\\Translate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amirziaee",
+            "email": "amir.fr2013@yahoo.com"
+        }
+    ],
+    "require": {
+        "stichoza/google-translate-php": "^5.1"
+    }
+}
